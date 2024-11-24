@@ -1,6 +1,3 @@
-Certainly! Here’s your complete README.md file with all the information integrated:
-
-markdown
 # ES6 Overview and Features
 
 ## Introduction
